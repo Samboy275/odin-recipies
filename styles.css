@@ -1,0 +1,31 @@
+body{
+    background-color: peachpuff;
+    color: chocolate;
+    border: 1px dashed;
+    padding: 1rem;
+}
+
+.page-subject{
+    font-weight: bold;
+    color: cadetblue;
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+h2{
+    font-weight: bold;
+    color: royalblue;
+}
+
+h3{
+    font-weight: bold;
+    color: darkorange;
+}
+
+ul ,ol{
+    color: brown;
+    font-size: 20px;
+}
