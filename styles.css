@@ -33,6 +33,9 @@ ul ,ol{
 .flex-container{
     display: flex;
 }
+.flex-container .col{
+    flex-direction: column;
+}
 
 .flex-item{
     flex: 1;
