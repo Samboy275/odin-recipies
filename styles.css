@@ -29,3 +29,18 @@ ul ,ol{
     color: brown;
     font-size: 20px;
 }
+
+.flex-container{
+    display: flex;
+}
+
+.flex-item{
+    flex: 1;
+    border: 1px dashed green;
+    margin: 10px;
+}
+
+.subheading{
+    margin: 8px;
+    display: block;
+}
